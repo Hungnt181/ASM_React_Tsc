@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Modern Wooden Chair",
+      "price": 150,
+      "image": "https://picsum.photos/200/300",
+      "description": "This modern wooden chair is designed with ergonomic comfort in mind, featuring sleek lines and a sturdy build. It is perfect for any room, offering both style and functionality. Crafted from high-quality wood, this chair is durable and long-lasting. Whether you're relaxing or working, it provides the support and comfort you need. The minimalist design fits into any decor, making it a versatile piece of furniture. It's easy to clean and maintain, making it ideal for busy households. Add a touch of elegance to your home with this beautifully crafted chair."
+    },
+    {
+      "id": "2",
+      "name": "Vintage Leather Sofa",
+      "price": 450,
+      "image": "https://picsum.photos/200/301",
+      "description": "This vintage leather sofa is a timeless piece that combines comfort with luxury. Made from premium leather, it offers a rich, textured look that gets better with age. The deep cushions provide exceptional comfort, while the sturdy frame ensures longevity. Whether you're lounging with family or entertaining guests, this sofa makes a statement in any living room. Its classic design complements a wide range of interior styles, from rustic to modern. Enjoy the warmth and elegance of leather with this exquisite sofa that will be the centerpiece of your living space."
+    },
+    {
+      "id": "3",
+      "name": "Glass Coffee Table",
+      "price": 200,
+      "image": "https://picsum.photos/200/302",
+      "description": "This glass coffee table combines modern elegance with practicality. The tempered glass top is sleek and easy to clean, while the metal frame adds a touch of industrial charm. Perfect for living rooms, this coffee table provides a spacious surface for drinks, books, and decor. Its minimalist design allows it to blend seamlessly into any setting, from contemporary to traditional interiors. The sturdy construction ensures it will withstand daily use while maintaining its stylish appearance. Elevate your home decor with this chic and functional coffee table."
+    },
+    {
+      "id": "4",
+      "name": "Wooden TV Stand",
+      "price": 300,
+      "image": "https://picsum.photos/200/303",
+      "description": "This wooden TV stand offers a blend of classic and modern aesthetics. With spacious drawers and shelves, it provides ample storage for media equipment, DVDs, and more. The durable wood construction ensures that this piece will last for years, while the clean lines and neutral finish allow it to complement a variety of decor styles. Perfect for living rooms or bedrooms, this TV stand is both functional and stylish. Whether you're binge-watching your favorite shows or organizing your entertainment system, this stand will enhance your viewing experience."
+    },
+    {
+      "id": "5",
+      "name": "Office Desk Set",
+      "price": 400,
+      "image": "https://picsum.photos/200/304",
+      "description": "This office desk set is perfect for creating a productive workspace at home or in the office. The desk features a large surface area for your computer, paperwork, and other essentials, along with drawers for additional storage. Designed with a modern aesthetic in mind, the set combines clean lines with practical functionality. The sturdy construction ensures durability, while the sleek design adds a touch of sophistication to any room. Whether you're working from home or managing a business, this desk set provides the space and style you need to get things done efficiently."
+    },
+    {
+      "id": "6",
+      "name": "Metal Dining Chair",
+      "price": 100,
+      "image": "https://picsum.photos/200/305",
+      "description": "This metal dining chair is a stylish and durable addition to any dining room. Its sleek metal frame provides a contemporary look, while the ergonomic design ensures comfort during long meals or gatherings. The chair is lightweight yet sturdy, making it easy to move around without sacrificing stability. Whether you're hosting a dinner party or enjoying a casual meal, this chair adds a touch of modern elegance to your space. Its minimalist design allows it to blend seamlessly with a variety of table styles, making it a versatile choice for any home."
+    },
+    {
+      "id": "7",
+      "name": "Wooden Bed Frame",
+      "price": 500,
+      "image": "https://picsum.photos/200/306",
+      "description": "This wooden bed frame is designed for both comfort and style. Made from high-quality wood, it offers a sturdy foundation for your mattress while adding a touch of natural beauty to your bedroom. The frame includes built-in storage options, making it ideal for smaller spaces or for those who need extra room for linens, clothing, or other items. With its elegant design and durable construction, this bed frame is the perfect combination of form and function. Transform your bedroom into a cozy and organized retreat with this versatile and stylish bed frame."
+    },
+    {
+      "id": "8",
+      "name": "Fabric Recliner Chair",
+      "price": 250,
+      "image": "https://picsum.photos/200/307",
+      "description": "This fabric recliner chair is the perfect blend of comfort and functionality. The soft fabric upholstery is both stylish and durable, while the reclining mechanism allows you to adjust the chair to your desired position for optimal relaxation. Whether you're watching TV, reading a book, or simply lounging, this chair provides the comfort you need. The footrest adds an extra level of relaxation, making this chair ideal for any living room or entertainment space. With its modern design and plush cushioning, this recliner is sure to become your favorite seat in the house."
+    },
+    {
+      "id": "9",
+      "name": "Marble Dining Table",
+      "price": 600,
+      "image": "https://picsum.photos/200/308",
+      "description": "This marble dining table is the epitome of luxury and sophistication. The smooth marble surface is both beautiful and durable, offering a timeless elegance to any dining space. Supported by a sturdy base, this table is built to last and withstand daily use. Whether you're hosting a dinner party or enjoying a family meal, this table provides ample space and style. Its sleek design makes it a statement piece in any home, while its durability ensures it will remain a favorite for years to come. Make your dining room the heart of your home with this stunning marble table."
+    },
+    {
+      "name": "product 2",
+      "price": "10000",
+      "image": "https://picsum.photos/100/100",
+      "description": "mo ta 1",
+      "id": "15ltGfu"
+    }
+  ],
+  "users": [
+    {
+      "email": "1@gmail.com",
+      "password": "$2a$10$1ZGL.RCWo7yTx54g8ONx.uoMQAy9j.BAzi3GfiYZYegAcT9ayl4v2",
+      "id": 1
+    },
+    {
+      "email": "2@gmail.com",
+      "password": "$2a$10$s3fLjzBnOGjYO3Mu1KMVMe1dWTznBeGcFc0yW.1Av3PAW6HeDX5zS",
+      "id": 2
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$/ou48Oj53btwzvPBpNSaa.fhTZcayoVC6Yj3JygwY.ZmpUSPlh6jS",
+      "id": 3
+    },
+    {
+      "email": "t@gmail.com",
+      "password": "$2a$10$L6q7R9r54IPW4Wr4Fq5oM.7eG7qvvUZ5dlPIzQETZnnpp53oYYylS",
+      "id": 4
+    }
+  ]
+}
