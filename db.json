@@ -58,39 +58,44 @@
     },
     {
       "id": "9",
-      "name": "Marble Dining Table",
+      "name": "Marble Dining Table update",
       "price": 600,
       "image": "https://picsum.photos/200/308",
       "description": "This marble dining table is the epitome of luxury and sophistication. The smooth marble surface is both beautiful and durable, offering a timeless elegance to any dining space. Supported by a sturdy base, this table is built to last and withstand daily use. Whether you're hosting a dinner party or enjoying a family meal, this table provides ample space and style. Its sleek design makes it a statement piece in any home, while its durability ensures it will remain a favorite for years to come. Make your dining room the heart of your home with this stunning marble table."
     },
     {
-      "name": "product 2",
-      "price": "10000",
+      "name": "giày",
+      "price": "500000",
       "image": "https://picsum.photos/100/100",
-      "description": "mo ta 1",
-      "id": "15ltGfu"
+      "description": "Phòng đôi nội thất hiện đại",
+      "id": "WMWMHwC"
     }
   ],
   "users": [
     {
       "email": "1@gmail.com",
       "password": "$2a$10$1ZGL.RCWo7yTx54g8ONx.uoMQAy9j.BAzi3GfiYZYegAcT9ayl4v2",
-      "id": 1
+      "id": "1"
     },
     {
       "email": "2@gmail.com",
       "password": "$2a$10$s3fLjzBnOGjYO3Mu1KMVMe1dWTznBeGcFc0yW.1Av3PAW6HeDX5zS",
-      "id": 2
+      "id": "2"
     },
     {
       "email": "test1@gmail.com",
       "password": "$2a$10$/ou48Oj53btwzvPBpNSaa.fhTZcayoVC6Yj3JygwY.ZmpUSPlh6jS",
-      "id": 3
+      "id": "3"
     },
     {
       "email": "t@gmail.com",
       "password": "$2a$10$L6q7R9r54IPW4Wr4Fq5oM.7eG7qvvUZ5dlPIzQETZnnpp53oYYylS",
-      "id": 4
+      "id": "4"
+    },
+    {
+      "email": "ngothehung@gmail.com",
+      "password": "$2a$10$IFeMywJqQcG0kU1HSKCZnuSAisqhal8v2gJVuIKQdpKxGBe5zrSda",
+      "id": "5EcGYKK"
     }
   ]
 }

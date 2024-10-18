@@ -54,7 +54,7 @@ const ListProductsPage = () => {
       key: "price",
     },
     {
-      title: "Iamge",
+      title: "Image",
       dataIndex: "image",
       key: "iamge",
       render: (text: string) => (

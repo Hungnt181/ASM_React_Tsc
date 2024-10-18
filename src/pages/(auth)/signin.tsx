@@ -20,7 +20,10 @@ const SigninPage = () => {
       const resopnse = await axios.post("http://localhost:3000/signin", data);
       alert(" Đăng nhập thành công! ");
       localStorage.setItem("token", resopnse.data.accessToken);
+
+      // setTimeout(() => {
       navigate("/admin");
+      // }, 5000);
     } catch (error) {
       console.log(error);
     }

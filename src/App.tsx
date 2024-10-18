@@ -13,7 +13,6 @@ import SignupPage from "./pages/(auth)/signup";
 import SigninPage from "./pages/(auth)/signin";
 import ProtectedRoute from "./ProtectedToken";
 function App() {
-  const token = localStorage.getItem("token");
   return (
     <>
       <Routes>
@@ -25,7 +24,7 @@ function App() {
         <Route
           path="/admin"
           element={
-            <ProtectedRoute token={token}>
+            <ProtectedRoute>
               <LayoutAdmin />
             </ProtectedRoute>
           }

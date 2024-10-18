@@ -1,6 +1,10 @@
 import { Navigate } from "react-router-dom";
 
-const ProtectedRoute = ({ token, children }) => {
+const ProtectedRoute = ({ children }) => {
+  const token = localStorage.getItem("token");
+  console.log(token);
+  console.log(token);
+
   if (!token) {
     // Nếu không có token, chuyển hướng về trang đăng nhập
     return <Navigate to="/auth/signin" />;
